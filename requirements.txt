@@ -1,4 +1,9 @@
 streamlit
+pandas
+torch
+transformers
+pdfplumber
+PyPDF2
 chromadb
 openai
-streamlit-authenticator
+sentence-transformers
