@@ -1,0 +1,10 @@
+streamlit
+supabase
+python-dotenv
+transformers
+torch
+chromadb
+pandas
+openai
+pdfplumber
+PyPDF2
