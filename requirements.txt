@@ -1,9 +1,0 @@
-streamlit
-pandas
-torch
-transformers
-pdfplumber
-PyPDF2
-chromadb
-openai
-sentence-transformers
